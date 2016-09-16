@@ -1,2 +1,5 @@
 # hello-world
-Just another respository
+
+Hello.
+I want to join this big family.
+I like code very much.
